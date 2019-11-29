@@ -9,5 +9,6 @@ group :development do
 gem 'pry'
 end
 
-group :test {gem 'rspec'}
+group :test do
+gem 'rspec'
 end
